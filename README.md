@@ -1,5 +1,5 @@
 # Project Activities:
-* Gather & analyze Requirements
+* Gather & Analyze Requirements
 * Design
 * Implement
 * Verify and Validate
