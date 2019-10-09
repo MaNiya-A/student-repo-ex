@@ -2,4 +2,5 @@
 * Gather & analyze Requirements
 * Design
 * Implement
-* Test
+* Verify and Validate
+* Maintain
